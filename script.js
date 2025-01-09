@@ -16,7 +16,7 @@ const fetchDictioanryData = async (inputWord) => {
 
         // successfuly found a word right here
         const dictionaryData = await dictionaryResponse.json();
-        console.log(dictionaryData);
+        // console.log(dictionaryData);
         useData(dictionaryData);
     } catch (err) { //for idk type of error s in fecthing
         console.log(err);
