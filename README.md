@@ -16,7 +16,7 @@ The Dictionary App is a simple web application that allows users to search for d
 - HTML
 - CSS
 - JavaScript
-- Fetch API for making HTTP requests
+- Fetch API for making HTTP requests (API USED : https://dictionaryapi.dev/)
 
 ## Getting Started
 
